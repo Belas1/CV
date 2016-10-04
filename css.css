@@ -1,0 +1,30 @@
+
+header {
+    display: flex;
+    flex-direction: row;
+    color: black;
+    align-items: ;
+    font-family: cursive;
+    background-color: antiquewhite;
+}
+
+aside {
+    background-color: :green;
+    border : 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: ;
+}
+
+li{
+    width: 100px;
+}
